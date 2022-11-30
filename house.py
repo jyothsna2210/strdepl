@@ -7,7 +7,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 from sklearn import datasets
 from sklearn.ensemble import RandomForestRegressor
-st.title(""" House price Pridiction App This app predicts the House Price **""")
+st.title(""" House price Prediction App This app predicts the House Price **""")
 
 html_temp = """
 <div style='background-color:yellow;padding:10px;'>
